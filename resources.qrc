@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/buffer_clip" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
